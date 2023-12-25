@@ -12,8 +12,9 @@ public class LinearEq {
 		b = Integer.parseInt(args[1]);
 		c = Integer.parseInt(args[2]);
 		double x = (c - b)/a;
-		System.out.println(a + " * " + b + "X = " + c);
+		System.out.println(a + " * x + " + b + " = " + c);
 		System.out.println("X = " + x);
+		\\"1.0 * x + 2.0 = 1.0\nx = -1.0"
 	}
 }
 	
