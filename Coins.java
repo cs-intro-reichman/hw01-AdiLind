@@ -14,7 +14,7 @@ public class Coins {
 		b = input%25;
 		//System.out.println("Use"+" "+ a +" "+ "quarters and" +" "+ b +" "+ "cents");
 		//System.out.println("Use"+" "+ a +" "+ "quarters"+" "+"and" +" "+ b +" "+ "cents");
-		System.out.println("Use" + " " + a + " " + "quarters" + " " + "and" + " " + b + "cents");
+		System.out.println("Use" + " " + a + " " + "quarters" + " " + "and" + " " + b +" " + "cents");
 		//Use 5 quarters and 7 cents
 	}
 }
